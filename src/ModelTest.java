@@ -17,5 +17,6 @@ public class ModelTest
     public void testCheck()
     {
         //fail("Not yet implemented");
+		AsserTrue(testee.getAnzahl()!= 4)
     }
 }
